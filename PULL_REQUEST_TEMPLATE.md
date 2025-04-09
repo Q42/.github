@@ -1,4 +1,4 @@
-Ticket: <!-- ticket number -->
+Ticket: <!-- ticket link -->
 
 ## Description of changes
 
