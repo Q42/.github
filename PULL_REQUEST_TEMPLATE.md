@@ -9,6 +9,7 @@ Ticket: <!-- ticket link -->
 <!-- Describe how to validate the changes that are made. -->
 
 ## ✅ Definition of Done
+Deze checklist helpt bij risicobeheersing tijdens softwareontwikkeling. Het is geen verplichte lijst om volledig af te vinken, maar een basis om na te denken over kwaliteit, veiligheid en best practices. Pas gerust aan voor je eigen project — zolang de risico’s maar bewust worden beheerst.
 
 ### 📄 Documentation & Knowledge Sharing
 
